@@ -74,8 +74,8 @@ on the array field:
         upsert: true }
    )
 
-If no such document exists, the operation would result in an insert of
-a document that resembles the following:
+// If no such document exists, the operation would result in an insert of
+a document that resembles the following:// it does not work like that
 
 .. code-block:: javascript
 
